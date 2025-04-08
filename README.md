@@ -1,3 +1,21 @@
+## Instal Composer
+
+composer install
+
+## Instal Node Modules
+
+npm install
+
+## ENV
+
+DB_HOST=
+DB_PORT=
+DB_NAME=
+DB_USER=
+DB_PASS=
+
+## Database
+
 CREATE TABLE m_product (
 id INT AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(100)
